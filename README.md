@@ -1,1 +1,1 @@
-# automate - jenkins integration
+# Automation Framework
